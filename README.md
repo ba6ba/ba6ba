@@ -1,9 +1,12 @@
-### Hey!👋 
-### Greetings from Abdul Basit Malik
+<p align="center">
+  <samp>
+    Hey!👋 Abdul Basit here!  <br>
+    🔭 I’m currently working on Android using Kotlin and Java <br>
+    🌱 I’m currently learning Backend technologies (Node JS, GO) <br>
+    💬 Ask me about Android, Kotlin <br>
+  </samp>
+</p>
 
-- 🔭 I’m currently working on Android using Kotlin and Java
-- 🌱 I’m currently learning Backend technologies (Node JS, GO)
-- 💬 Ask me about Android, Kotlin
 
 Reach me on:
 
